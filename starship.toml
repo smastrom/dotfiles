@@ -1,0 +1,10 @@
+[gcloud]
+disabled = true
+
+[username]
+disabled = false
+show_always = true
+
+[cmd_duration]
+min_time = 10
+disabled = false
